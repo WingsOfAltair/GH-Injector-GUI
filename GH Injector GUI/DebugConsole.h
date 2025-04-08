@@ -7,6 +7,8 @@
 
 #include "pch.h"
 
+#include <QListWidget>
+
 #include "framelesswindow.h"
 
 class DebugConsole : public QWidget
@@ -53,8 +55,8 @@ private:
 	FramelessWindow * m_FramelessParent = nullptr;
 	FramelessWindow * m_DockParent		= nullptr;
 
-	QListWidget * m_Content	= nullptr;
-	QGridLayout * m_Layout	= nullptr;
+	QListWidget* m_Content = nullptr;
+	QGridLayout* m_Layout	= nullptr;
 
 	QString m_OldSelection = QString("");
 

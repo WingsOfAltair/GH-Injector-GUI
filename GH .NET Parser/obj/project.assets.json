@@ -151,23 +151,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\konra\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "4.8.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\konra\\Documents\\Visual Studio 2022\\Projects\\GH_TEMP\\GH-Injector-GUI\\GH .NET Parser\\GH .NET Parser.csproj",
+      "projectUniqueName": "D:\\GH-Injector-GUI\\GH .NET Parser\\GH .NET Parser.csproj",
       "projectName": "GH .NET Parser",
-      "projectPath": "C:\\Users\\konra\\Documents\\Visual Studio 2022\\Projects\\GH_TEMP\\GH-Injector-GUI\\GH .NET Parser\\GH .NET Parser.csproj",
-      "packagesPath": "C:\\Users\\konra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\konra\\Documents\\Visual Studio 2022\\Projects\\GH_TEMP\\GH-Injector-GUI\\GH .NET Parser\\obj\\",
+      "projectPath": "D:\\GH-Injector-GUI\\GH .NET Parser\\GH .NET Parser.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\GH-Injector-GUI\\GH .NET Parser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\konra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -188,7 +188,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -215,7 +221,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

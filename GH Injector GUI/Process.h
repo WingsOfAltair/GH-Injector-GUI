@@ -13,6 +13,8 @@
 
 #include "pch.h"
 
+#include <tlhelp32.h>
+
 #include "DebugConsole.h"
 
 enum class SORT_SENSE : int
